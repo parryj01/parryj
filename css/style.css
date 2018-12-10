@@ -6,11 +6,7 @@
 
 body {
   height: 100vh;
-  background-color: black;
-  background-image: url("../images/mobile-bg.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  background-color: white;
 }
 
 .page1 {
